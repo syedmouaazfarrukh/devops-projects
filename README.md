@@ -2,6 +2,7 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 
 # Type of Projects:
 
+  - [Getting Started](#Getting-Started)
   - Hands-on-Practice
     - Local Environment
     - Cloud Environment
@@ -12,3 +13,5 @@ Welcome to my DevOps practice and professional projects repository. This reposit
     - Local Environment
     - Cloud Environment
 
+- Getting Started
+  - [Install Ubuntu/Centos VM using Oracle VirtualBox Manager](https://medium.com/@mouaazfarrukh99/install-ubuntu-centos-vm-using-oracle-virtualbox-manager-3abd3d377d2b)
