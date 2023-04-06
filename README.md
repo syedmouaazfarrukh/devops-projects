@@ -3,8 +3,8 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 # Type of Projects:
 
   - [Getting Started](#getting-started)
-  - Hands on Practice
-    - Local Environment(#local-environment)
+  - [Hands on Practice](#Hands-on-practice)
+    - [Local Environment](#local-environment)
     - Cloud Environment
   - Practice Projects
     - Local Environment
@@ -16,6 +16,6 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 ## Getting Started
   - [Install Ubuntu/Centos VM using Oracle VirtualBox Manager](https://medium.com/@mouaazfarrukh99/install-ubuntu-centos-vm-using-oracle-virtualbox-manager-3abd3d377d2b)
 
-## Hands-on-Practice
+## Hands on Practice
   ### Local Environment
   - [Installing LAMP stack on CentOS](https://medium.com/@mouaazfarrukh99/installing-lamp-stack-on-centos-8d1189bc78c9)
