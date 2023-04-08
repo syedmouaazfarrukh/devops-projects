@@ -15,6 +15,7 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 
 ## Getting Started
   - [Install Ubuntu/Centos VM using Oracle VirtualBox Manager](https://medium.com/@mouaazfarrukh99/install-ubuntu-centos-vm-using-oracle-virtualbox-manager-3abd3d377d2b)
+  - [Getting started with EC2 in AWS]()
 
 ## Hands on Practice
   ### Local Environment
