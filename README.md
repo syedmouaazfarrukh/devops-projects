@@ -14,9 +14,9 @@ Welcome to my DevOps practice and professional projects repository. This reposit
     - Cloud Environment
 
 ## Getting Started
-  - [Install Ubuntu/Centos VM using Oracle VirtualBox Manager](https://medium.com/@mouaazfarrukh99/install-ubuntu-centos-vm-using-oracle-virtualbox-manager-3abd3d377d2b)
-  - [Getting started with EC2 in AWS]()
+  - [Install Ubuntu/Centos VM using Oracle VirtualBox Manager](https://bit.ly/4396NMu)
+  - [Getting started with EC2 in AWS](http://bit.ly/41eGUco)
 
 ## Hands on Practice
   ### Local Environment
-  - [Installing LAMP stack on CentOS](https://medium.com/@mouaazfarrukh99/installing-lamp-stack-on-centos-8d1189bc78c9)
+  - [Installing LAMP stack on CentOS](https://bit.ly/3Uhqg9P)
