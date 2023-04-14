@@ -5,7 +5,7 @@ Welcome to my DevOps practice and professional projects repository. This reposit
   - [Getting Started](#getting-started)
   - [Hands on Practice](#Hands-on-practice)
     - [Local Environment](#local-environment)
-    - Cloud Environment
+    - [Cloud Environment](#cloud-environment)
   - Practice Projects
     - Local Environment
     - Cloud Environment
@@ -20,3 +20,7 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 ## Hands on Practice
   ### Local Environment
   - [Installing LAMP stack on CentOS](https://bit.ly/3Uhqg9P)
+  
+  ### Cloud Environment
+  - [Build a CI/CD pipeline in AWS](https://bit.ly/3A2noV7)
+ 
