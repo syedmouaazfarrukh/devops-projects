@@ -9,7 +9,7 @@ Welcome to my DevOps practice and professional projects repository. This reposit
   - Practice Projects
     - Local Environment
     - Cloud Environment
-  - Professional Projetcs
+  - [Professional Projects](#professional-projects)
     - Local Environment
     - Cloud Environment
 
@@ -23,4 +23,6 @@ Welcome to my DevOps practice and professional projects repository. This reposit
   
   ### Cloud Environment
   - [Build a CI/CD pipeline in AWS](https://bit.ly/3A2noV7)
- 
+
+## Professional Projects
+  - [Designing a Serverless Web Backend on AWS]([https://bit.ly/4396NMu](https://medium.com/@mouaazfarrukh99/designing-a-serverless-web-backend-on-aws-b4f49902b05d))
