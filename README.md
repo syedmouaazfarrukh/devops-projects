@@ -4,10 +4,10 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 
   - [Getting Started](#getting-started)
   - [Hands on Practice](#Hands-on-practice)
-    - [Local Environment](#local-environment)
+    - [On-prem Environment](#On-prem-environment)
     - [Cloud Environment](#cloud-environment)
   - Practice Projects
-    - Local Environment
+    - On-prem Environment
     - Cloud Environment
   - [Professional Projects](#professional-projects)
     - Local Environment
@@ -18,11 +18,15 @@ Welcome to my DevOps practice and professional projects repository. This reposit
   - [Getting started with EC2 in AWS](http://bit.ly/41eGUco)
 
 ## Hands on Practice
-  ### Local Environment
+  ### On-prem Environment
   - [Installing LAMP stack on CentOS](https://bit.ly/3Uhqg9P)
   
   ### Cloud Environment
   - [Build a CI/CD pipeline in AWS](https://bit.ly/3A2noV7)
 
 ## Professional Projects
-  - [Designing a Serverless Web Backend on AWS]([https://bit.ly/4396NMu](https://medium.com/@mouaazfarrukh99/designing-a-serverless-web-backend-on-aws-b4f49902b05d))
+  ### On-prem Environment
+  - [Installing LAMP stack on CentOS](https://bit.ly/3Uhqg9P)
+  
+  ### Cloud Environment
+  - [Designing a Serverless Web Backend on AWS](https://medium.com/@mouaazfarrukh99/designing-a-serverless-web-backend-on-aws-b4f49902b05d)
