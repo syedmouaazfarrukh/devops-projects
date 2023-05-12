@@ -25,8 +25,6 @@ Welcome to my DevOps practice and professional projects repository. This reposit
   - [Build a CI/CD pipeline in AWS](https://bit.ly/3A2noV7)
 
 ## Professional Projects
-  ### On-prem Environment
-  - [Installing LAMP stack on CentOS](https://bit.ly/3Uhqg9P)
-  
+  ### On-prem Environment  
   ### Cloud Environment
   - [Designing a Serverless Web Backend on AWS](https://medium.com/@mouaazfarrukh99/designing-a-serverless-web-backend-on-aws-b4f49902b05d)
