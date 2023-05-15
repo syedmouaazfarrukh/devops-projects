@@ -28,3 +28,4 @@ Welcome to my DevOps practice and professional projects repository. This reposit
   ### On-prem Environment  
   ### Cloud Environment
   - [Designing a Serverless Web Backend on AWS](https://medium.com/@mouaazfarrukh99/designing-a-serverless-web-backend-on-aws-b4f49902b05d)
+  - [Designing Data Analytics Solution on AWS](https://bit.ly/41F5qn5)
