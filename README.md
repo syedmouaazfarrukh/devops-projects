@@ -6,7 +6,7 @@ Welcome to my DevOps practice and professional projects repository. This reposit
   - [Hands on Practice](#Hands-on-practice)
     - [On-prem Environment](#On-prem-environment)
     - [Cloud Environment](#cloud-environment)
-  - Practice Projects
+  - Beginner Projects
     - On-prem Environment
     - Cloud Environment
   - [Professional Projects](#professional-projects)
