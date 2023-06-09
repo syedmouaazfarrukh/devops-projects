@@ -16,6 +16,7 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 ## Getting Started
   - [Install Ubuntu/Centos VM using Oracle VirtualBox Manager](https://bit.ly/4396NMu)
   - [Getting started with EC2 in AWS](http://bit.ly/41eGUco)
+  - [Get started with Terraform - Beginners Guide](https://medium.com/@mouaazfarrukh99/terraform-for-beginners-7ed1ac91a64a)
 
 ## Hands on Practice
   ### On-prem Environment
