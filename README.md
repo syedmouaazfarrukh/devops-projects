@@ -4,10 +4,10 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 
   - [Getting Started](#getting-started)
   - [Hands on Practice](#Hands-on-practice)
-    - [On-prem Environment](#On-prem-environment)
+    - [Local Environment](#Local-environment)
     - [Cloud Environment](#cloud-environment)
   - Beginner Projects
-    - On-prem Environment
+    - Local Environment
     - Cloud Environment
   - [Professional Projects](#professional-projects)
     - Local Environment
@@ -20,14 +20,14 @@ Welcome to my DevOps practice and professional projects repository. This reposit
   - [Get started with Ansible - Beginners Guide](https://medium.com/@mouaazfarrukh99/ansible-for-beginners-80edf4fe2acb)
 
 ## Hands on Practice
-  ### On-prem Environment
+  ### Local Environment
   - [Installing LAMP stack on CentOS](https://bit.ly/3Uhqg9P)
   
   ### Cloud Environment
   - [Build a CI/CD pipeline in AWS](https://bit.ly/3A2noV7)
 
 ## Professional Projects
-  ### On-prem Environment  
+  ### Local Environment  
   ### Cloud Environment
   - [Designing a Serverless Web Backend on AWS](medium.com/@mouaazfarrukh99/designing-a-serverless-web-backend-on-aws-b4f49902b05d)
   - [Designing Data Analytics Solution on AWS](https://bit.ly/41F5qn5)
