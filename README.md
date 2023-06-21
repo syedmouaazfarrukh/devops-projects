@@ -1,4 +1,4 @@
-Welcome to my DevOps practice and professional projects repository. This repository includes a variety of projects aimed at helping developers and DevOps practitioners gain practical experience with DevOps practices. The projects include CI/CD pipelines, IaC scripts, testing frameworks, monitoring, logging tools, containerization and orchestration tools. Each project contains code, documentation, and instructions for deployment. Feel free to explore the repository and these projects to improve your DevOps skills or if you wish to contribute, I'd love that!
+Welcome to my DevOps practice and professional projects repository. This repository includes a variety of projects aimed at helping developers and DevOps practitioners gain practical experience with DevOps practices. The projects include CI/CD pipelines, IaC scripts, testing frameworks, monitoring, logging tools, containerization & orchestration tools. Each project contains code, documentation, and instructions for deployment. Feel free to explore the repository and these projects to improve your DevOps skills or if you wish to contribute, I'd love that!
 
 # Type of Projects:
 
@@ -28,6 +28,7 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 
 ## Professional Projects
   ### Local Environment  
+  
   ### Cloud Environment
   - [Designing a Serverless Web Backend on AWS](medium.com/@mouaazfarrukh99/designing-a-serverless-web-backend-on-aws-b4f49902b05d)
   - [Designing Data Analytics Solution on AWS](https://bit.ly/41F5qn5)
