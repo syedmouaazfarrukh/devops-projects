@@ -15,16 +15,23 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 
 ## Getting Started
   - [Install Ubuntu/Centos VM using Oracle VirtualBox Manager](https://bit.ly/4396NMu)
+  - [Get started with Linux Terminal]()
   - [Getting started with EC2 in AWS](http://bit.ly/41eGUco)
   - [Get started with Terraform - Beginners Guide](https://medium.com/@mouaazfarrukh99/terraform-for-beginners-7ed1ac91a64a)
   - [Get started with Ansible - Beginners Guide](https://medium.com/@mouaazfarrukh99/ansible-for-beginners-80edf4fe2acb)
-
+  - [Get started with Grafana]()
+  - [Get started with Docker]()
+  - [Get started with Kubernetes]()
 
 ## Hands on Practice
   ### Local Environment
   - [Installing LAMP stack on CentOS](https://bit.ly/3Uhqg9P)
   
   ### Cloud Environment
+  - [Setup a AWS account]()
+  - [Setup a Azure account]()
+  - [Setup a GCP account]()
+  - [Basics of Cloud Environment]()
   - [Build a CI/CD pipeline in AWS](https://bit.ly/3A2noV7)
 
 ## Professional Projects
