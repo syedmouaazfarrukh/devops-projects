@@ -23,6 +23,7 @@ Welcome to my DevOps practice and professional projects repository. This reposit
   - [Get started with Ansible - Beginners Guide](https://medium.com/@mouaazfarrukh99/ansible-for-beginners-80edf4fe2acb)
   - [Get started with Grafana]()
   - [Get started with Docker]()
+  - [Get started with Chef]()
   - [Get started with Kubernetes]()
 
 ## Hands on Practice
