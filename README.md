@@ -29,6 +29,12 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 ## Hands on Practice
   ### Local Environment
   - [Installing LAMP stack on CentOS](https://bit.ly/3Uhqg9P)
+  - [How to Set-up a Local Development Environment]()
+  - [Implement Continuous Integration (CI) with Jenkins]()
+  - [How to Containerize with Docker]()
+  - [Set-up an Infrastructure as Code (IaC) with Terraform]()
+  - [Get started with configuration Management using Ansible]()
+  - [Set-up a Kubernetes cluster]()
   
   ### Cloud Environment
   - [Setup a AWS account]()
