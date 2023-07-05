@@ -25,7 +25,7 @@ Welcome to my DevOps practice and professional projects repository. This reposit
   - [Get started with Docker]()
   - [Get started with Chef]()
   - [Get started with Kubernetes]()
-
+  - [Setting up Azure Pipeline]()
 ## Hands on Practice
   ### Local Environment
   - [Installing LAMP stack on CentOS](https://bit.ly/3Uhqg9P)
