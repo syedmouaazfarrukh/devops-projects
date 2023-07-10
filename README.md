@@ -29,6 +29,7 @@ Welcome to my DevOps practice and professional projects repository. This reposit
 ## Hands on Practice
   ### Local Environment
   - [Installing LAMP stack on CentOS](https://bit.ly/3Uhqg9P)
+  - [Install/Use Kubernetes on Ubuntu](https://www.cloudsigma.com/how-to-install-and-use-kubernetes-on-ubuntu-20-04/)
   - [How to Set-up a Local Development Environment]()
   - [Implement Continuous Integration (CI) with Jenkins]()
   - [How to Containerize with Docker]()
