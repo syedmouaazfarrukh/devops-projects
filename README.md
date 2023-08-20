@@ -14,6 +14,22 @@ Welcome to my DevOps practice and professional projects repository. This reposit
     - Cloud Environment
   - [Cloud Provider Based Projects](#cloud-provider-based-projects)
 
+# Technology Based Projects:
+
+| Technology      | Description                                                | Use Case                   | Website                                    |
+|-----------------|------------------------------------------------------------|----------------------------|--------------------------------------------|
+| Docker          | Containerization platform for packaging and deploying apps | Application deployment     | [Docker](https://www.docker.com/)          |
+| Jenkins         | Open-source automation server for CI/CD pipelines        | Continuous integration    | [Jenkins](https://www.jenkins.io/)         |
+| Kubernetes      | Container orchestration platform for scaling applications | Container management       | [Kubernetes](https://kubernetes.io/)      |
+| Ansible         | Automation tool for configuration management             | Infrastructure provisioning | [Ansible](https://www.ansible.com/)        |
+| Terraform       | Infrastructure as Code tool for provisioning resources   | Cloud infrastructure       | [Terraform](https://www.terraform.io/)    |
+| GitLab CI/CD    | Integrated CI/CD platform with version control           | Source code management    | [GitLab](https://about.gitlab.com/)       |
+| AWS CloudFormation | Infrastructure as Code service for AWS resources      | Cloud infrastructure       | [AWS CloudFormation](https://aws.amazon.com/cloudformation/) |
+| Travis CI       | CI/CD platform for testing and deploying applications     | Automated testing          | [Travis CI](https://travis-ci.org/)       |
+| CircleCI        | CI/CD platform for automating software workflows         | Continuous deployment     | [CircleCI](https://circleci.com/)         |
+| Prometheus      | Monitoring and alerting toolkit for cloud-native apps     | Application monitoring     | [Prometheus](https://prometheus.io/)      |
+
+
 ## Getting Started
   - [Install Ubuntu/Centos VM using Oracle VirtualBox Manager](https://bit.ly/4396NMu)
   - [Get started with Linux Terminal]()
