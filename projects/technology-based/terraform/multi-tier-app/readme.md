@@ -6,25 +6,7 @@ You need to deploy a scalable and secure multi-tier web application infrastructu
 **Solution using Terraform:**
 
 1. **Directory Structure:**
-   Create a project structure with the following files:
-
-   ```
-   ├── main.tf
-   ├── variables.tf
-   ├── outputs.tf
-   ├── network/
-   │   ├── main.tf
-   │   ├── variables.tf
-   │   └── outputs.tf
-   ├── compute/
-   │   ├── main.tf
-   │   ├── variables.tf
-   │   └── outputs.tf
-   └── database/
-       ├── main.tf
-       ├── variables.tf
-       └── outputs.tf
-   ```
+   Create a project structure with the following files as of this folder `multi-tier-app`.
 
 2. **Network Configuration (`network/main.tf`):**
    Define the VPC, subnets, and route tables.
